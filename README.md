@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/edmilson-nascimento/mvp_pdo)
 [![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)](https://httpd.apache.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![GitHub commits](https://img.shields.io/github/commit-activity/t/edmilson-nascimento/mvp_pdo?style=flat)](https://github.com/edmilson-nascimento/mvp_pdo/commits)
+[![GitHub commits](https://img.shields.io/github/commit-activity/t/edmilson-nascimento/mvc-pdo?style=flat)](https://github.com/edmilson-nascimento/mvp_pdo/commits)
 
 [![N|Solid](https://www.atlantasky.com/wp-content/uploads/2013/08/PHP-Mysql.png)](#)
 
